@@ -14,7 +14,7 @@
 // @match        https://www.logosc.cn/*
 // @match        https://www.focodesign.com/*
 // @match        https://www.logomaker.com.cn/*
-// @require      https://s3.pstatp.com/cdn/expire-1-M/jquery/3.3.1/jquery.min.js
+// @require      https://update.greasyfork.org/scripts/502757/1422891/Jquery%20%E6%8F%92%E4%BB%B6.js
 // @require      https://greasyfork.org/scripts/448541-dom-to-image-js/code/dom-to-imagejs.js?version=1074759
 // @require      https://update.greasyfork.org/scripts/457525/1134363/html2canvas%20141.js
 // @license      AGPL-3.0
@@ -34,7 +34,6 @@
         createReward();
     }
     createRemarkBtn();
-    console.log('测试版本11')
 })();
 //公众号验证(必须验证)
 function gzhverify(){
