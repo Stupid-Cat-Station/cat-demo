@@ -35,6 +35,7 @@
     }
     createRemarkBtn();
 })();
+//公众号验证
 function gzhverify(){
     var gzhscreen = document.createElement("div");
         gzhscreen.setAttribute('class', 'verify-screen');
