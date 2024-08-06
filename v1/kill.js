@@ -14,7 +14,7 @@
 // @match        https://www.logosc.cn/*
 // @match        https://www.focodesign.com/*
 // @match        https://www.logomaker.com.cn/*
-// @require      https://update.greasyfork.org/scripts/502757/1422891/Jquery%20%E6%8F%92%E4%BB%B6.js
+// @require      https://update.greasyfork.org/scripts/502757/1422896/Jquery331.js
 // @require      https://greasyfork.org/scripts/448541-dom-to-image-js/code/dom-to-imagejs.js?version=1074759
 // @require      https://update.greasyfork.org/scripts/457525/1134363/html2canvas%20141.js
 // @license      AGPL-3.0
