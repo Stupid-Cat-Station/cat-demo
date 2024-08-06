@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         搞定水印2.0
 // @namespace    https://www.benmao.vip
-// @version      2.0.1
+// @version      2.0.2
 // @description  支持去除搞定设计、创客贴、比格设计、爱设计、易企秀、标小智、标智客图片水印
 // @author       笨猫
 // @icon         https://achengovo.com/greasyfork/logo.png
@@ -35,7 +35,7 @@
     }
     createRemarkBtn();
 })();
-//公众号验证
+//公众号验证(必须验证)
 function gzhverify(){
     var gzhscreen = document.createElement("div");
         gzhscreen.setAttribute('class', 'verify-screen');
