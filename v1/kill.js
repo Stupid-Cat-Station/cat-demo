@@ -112,7 +112,7 @@ function gzhverify(){
         verifyTipObj.setAttribute('class', 'verify-tip');
         verifyTipObj.innerHTML = "① 扫码关注公众号回复口令<b> 「验证码」 </b><br/>② 将获取到的验证码输入进行验证";
     inputBoxObj.appendChild(verifyTipObj);
-
+    //关闭按钮
     var closeBtnObj = document.createElement("span");
         closeBtnObj.setAttribute('class', 'close-modal');
         closeBtnObj.textContent = "X";
