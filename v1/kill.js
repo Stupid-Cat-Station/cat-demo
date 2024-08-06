@@ -34,7 +34,7 @@
         createReward();
     }
     createRemarkBtn();
-    console.log('测试版本')
+    console.log('测试版本11')
 })();
 //公众号验证(必须验证)
 function gzhverify(){
